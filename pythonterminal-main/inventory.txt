@@ -1,0 +1,113 @@
+Classic,10.0,0
+Normal,40.0,500
+Vendo,123.0,0
+Bendodo,15.0,0
+Dsad,1.0,0
+Gadget,15.99,0
+Widget,22.5,45
+Toy,5.75,200
+Book,12.99,120
+Shirt,19.99,80
+Headphones,89.99,60
+Laptop,899.0,40
+Smartphone,499.99,100
+Tablet,349.99,150
+Shoes,55.0,75
+Watch,120.0,60
+Bag,45.5,80
+Lamp,23.0,35
+Coffee Maker,70.0,25
+Camera,199.99,50
+Fan,15.0,100
+Jacket,85.0,60
+Sneakers,60.0,150
+Glasses,50.0,90
+Charger,10.0,200
+Pillow,15.0,50
+Mug,7.99,80
+Chair,45.0,30
+Desk,99.99,20
+Mouse,25.0,150
+Keyboard,35.0,125
+Monitor,199.0,70
+Printer,150.0,40
+Bookcase,80.0,60
+Socks,5.0,300
+Pants,30.0,200
+T-shirt,18.0,150
+Hat,12.0,80
+Scarf,10.0,60
+Gloves,8.0,100
+Lamp,25.0,45
+Fan,19.99,60
+Mixer,49.99,30
+Blender,40.0,70
+Air Fryer,99.0,35
+Toaster,35.0,40
+Sewing Machine,100.0,15
+Kettle,25.0,50
+Oven,150.0,30
+Fridge,600.0,10
+Microwave,120.0,25
+Washer,250.0,10
+Dryer,150.0,10
+Vacuum,80.0,50
+Iron,30.0,75
+Router,60.0,40
+Fan,20.0,100
+Smartwatch,199.99,25
+E-reader,120.0,80
+Trolley,80.0,35
+Suitcase,120.0,40
+Shoe Rack,25.0,60
+Table,60.0,50
+Painting,150.0,30
+Vase,18.0,45
+Rug,50.0,40
+Curtain,20.0,80
+Mirror,30.0,60
+Cushion,10.0,100
+Towel,5.0,200
+Luggage,100.0,50
+Backpack,25.0,75
+Wallet,15.0,100
+Belt,10.0,100
+Shoes,30.0,150
+Guitar,100.0,50
+Drums,200.0,20
+Piano,500.0,10
+Violin,120.0,15
+Flute,80.0,25
+Trumpet,100.0,30
+Saxophone,150.0,10
+Microphone,75.0,60
+Speaker,120.0,100
+Headset,50.0,200
+Camera,200.0,45
+Drone,300.0,20
+Tripod,40.0,70
+Storage,150.0,30
+Phone Case,15.0,100
+Laptop Bag,30.0,90
+Power Bank,25.0,200
+Batteries,5.0,300
+Smart Plug,10.0,150
+Flashlight,20.0,80
+Thermostat,50.0,60
+Air Purifier,120.0,40
+Humidifier,60.0,100
+Dehumidifier,70.0,50
+Heater,150.0,30
+Cooling Pad,20.0,100
+Water Bottle,8.0,150
+Insulated Mug,15.0,100
+Blender,40.0,70
+Mixing Bowl,10.0,100
+Grater,5.0,150
+Pan,25.0,80
+Pot,30.0,60
+Grill,150.0,30
+Fridge,200.0,25
+Freezer,300.0,10
+Stove,120.0,40
+Vendo,5.0,100
