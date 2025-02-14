@@ -55,7 +55,7 @@ class Application(tk.Tk):
         # Admin Login - Upper Right with 80% opacity for the button
         self.admin_button = tk.Button(self, text="Admin Login", command=self.open_admin_login, fg="black",
                                       bd=0, highlightthickness=0,font=("Helvetica", 14))
-        self.admin_button.place(x=screen_width - 1960, y=110)
+        self.admin_button.place(relx=0.755, rely=0.17)
 
         # Initialize inventory and cart
         self.inventory = Inventory()  # Initialize the Inventory
